@@ -113,6 +113,10 @@ InitTestScene*.unity*
 /.idea/
 /work/
 
+# Scene recovery backups stay local.
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
 # Local credentials and signing files
 .env
 .env.*
